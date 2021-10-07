@@ -32,3 +32,6 @@ class ViewController: UIViewController {
 // git pull (получить - скачать себе локально все внешние новые коммиты)
 
 //
+
+
+// G1AZALI NAN MA YAL HA
