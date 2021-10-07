@@ -18,3 +18,4 @@ class ViewController: UIViewController {
 }
 
 // G1azali dadi lev
+// Tochni lev
