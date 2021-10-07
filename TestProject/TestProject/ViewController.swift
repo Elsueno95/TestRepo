@@ -11,6 +11,8 @@ import UIKit
 class ViewController: UIViewController {
     
     let label = UILabel()
+    
+    let image = UIImage()
 
     override func viewDidLoad() {
         super.viewDidLoad()
