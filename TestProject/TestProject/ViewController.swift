@@ -33,3 +33,8 @@ class ViewController: UIViewController {
 
 // G1AZALI NAN MA YAL HA
 // са даг чохь даим хир ду дарц
+
+
+
+
+// G1AZALI YA PODSTAVLYU TEBYA, TVOE IP
